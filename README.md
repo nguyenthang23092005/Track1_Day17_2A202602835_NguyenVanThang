@@ -4,21 +4,21 @@ Repo cá nhân để review Problem Hypothesis, lượt thực hành problem int
 
 **Trạng thái:** Có Problem Hypothesis, Conversation Guide, thông tin nhóm và bản ghi M4A dài 07:56,45. Nội dung buổi luyện, reflection, consent, mốc bản ghi và xác nhận nhóm chưa được đối chiếu.
 
-Hồ sơ gồm README, [Interview Record](interview/notes.md) và [bản ghi M4A](interview/recording.m4a). Xem [Conversation Guide](#3-conversation-guide-phiên-bản-cuối) và [thông tin bản ghi](#thông-tin-bản-ghi).
+Hồ sơ gồm README, [Interview Record](interview/notes.md) và [bản ghi M4A](interview/recording.m4a). Xem [Conversation Guide](#3-conversation-guide--kịch-bản-dùng-khi-phỏng-vấn) và [thông tin bản ghi](#thông-tin-bản-ghi).
 
 ## 1. Thông tin cá nhân và nhóm
 
 | Thông tin | Nội dung |
 | :--- | :--- |
 | MHV | 2A202602835 |
-| Repo GitHub | [Tên repo](https://github.com/nguyenthang23092005/Track1_Day17_2A202602835_NguyenVanThang) — riêng tư |
+| Repo GitHub | [Tên repo](https://github.com/nguyenthang23092005/Track1_Day17_2A202602835_NguyenVanThang) — công khai |
 | Họ tên | Nguyễn Văn Thăng |
 | Tên nhóm | FinTech |
 | Thành viên | Nguyễn Văn Thăng; Tạ Việt Cường; Nguyễn Anh Dũng |
 | Case đã chọn | Case A — AI Tutor: Diagnostic Refresher |
 | Lượt cá nhân | Nguyễn Văn Thăng làm interviewer; xem [Interview Record](interview/notes.md) |
 | Bản ghi | [recording.m4a](interview/recording.m4a) — 07:56,45; [metadata và quyền review](#thông-tin-bản-ghi) |
-| Phiên bản tài liệu hiện tại | Guide v2 — sửa từ rà soát tài liệu, chờ nhóm xác nhận |
+
 
 
 ### Thông tin bản ghi
@@ -29,8 +29,6 @@ Hồ sơ gồm README, [Interview Record](interview/notes.md) và [bản ghi M4A
 | :--- | :--- |
 | Bản ghi | [recording.m4a](interview/recording.m4a) |
 | Đường dẫn trong repo | `interview/recording.m4a` |
-| Dung lượng | 4.057.678 byte, khoảng 3,87 MiB |
-| Thời lượng theo metadata M4A | 07:56,45 — 476,450 giây |
 | SHA-256 | `C8F7D7AD25487004DAF3B25DF5494D203843F8E36A42E528D8BDA84B9473ED10` |
 | Notes liên quan | [Interview Record](interview/notes.md) |
 | Người hỏi dự kiến theo hồ sơ | Nguyễn Văn Thăng — 2A202602835 |
@@ -72,14 +70,18 @@ Tóm tắt từ tài liệu Chặng 1 hiện có; chưa có evidence phỏng v�
 
 **Solution Parking Lot:** chẩn đoán và ôn bằng AI; bản đồ kiến thức tiên quyết; thêm ví dụ/bước trung gian; câu hỏi tự kiểm tra có nhánh; hỏi coach kèm bối cảnh; giải thích lại bằng AI. Chưa chọn phương án cuối trước khi đối chiếu evidence.
 
-## 3. Conversation Guide phiên bản cuối
+## 3. Conversation Guide — kịch bản dùng khi phỏng vấn
 
-**Bản hiện có là v2, sửa từ rà soát tài liệu; chờ nhóm xác nhận cho fieldwork.** Bảng trước–sau ở mục 4; toàn bộ câu hỏi dùng trực tiếp nằm ngay trong mục này.
+**Dùng trực tiếp khi phỏng vấn:** bắt đầu bằng tuyển người và consent, để người tham gia kể một sự kiện gần đây, rồi dùng đúng ba câu hỏi chính. Chỉ chọn probe khi câu chuyện còn thiếu chi tiết; không hỏi người tham gia đánh giá solution, tính năng hoặc dự đoán tương lai.
+
+**Trạng thái:** Bản v2 sửa từ rà soát tài liệu; chờ nhóm xác nhận trước fieldwork. Bảng trước–sau nằm ở mục 4.
 
 <!-- GUIDE_V2_START -->
 ### Cách dùng
 
 Hỏi từng câu, chờ người tham gia kể hết rồi chọn probe từ chi tiết vừa nghe. Nếu câu chuyện đã trả lời một Big 3, bỏ qua phần đã rõ. Không gán nguyên nhân hay giới thiệu phương án hỗ trợ đang cân nhắc.
+
+Trước khi bắt đầu, mở [Interview Record](interview/notes.md) để ghi mốc bản ghi và evidence ngay sau buổi.
 
 ### Tuyển người
 
@@ -190,13 +192,13 @@ Chưa có sửa đổi từ buổi luyện được xác nhận. Sau khi đối 
 - [x] Có `interview/recording.m4a`; đường dẫn trong README và notes khớp nhau.
 - [x] Có Conversation Guide và bảng revision từ rà soát tài liệu.
 - [x] AI Support Log nêu việc đã làm và bước cần kiểm tra.
-- [ ] Xác nhận Problem Hypothesis Brief và guide cuối với nhóm.
-- [ ] Xác nhận ngày, giờ, người tham gia và phiên bản thực sự dùng; điền nội dung notes từ bản ghi cùng mốc `mm:ss`.
-- [ ] Hoàn thiện reflection và revision từ lượt luyện thực tế.
-- [ ] Xác nhận consent tham gia, ghi âm và chia sẻ đúng phạm vi.
-- [ ] Kiểm tra chất lượng âm thanh và giảng viên/TA mở được bản ghi bằng quyền được cấp.
-- [ ] Người học ghi phần đã tự kiểm tra/sửa sau khi review.
-- [ ] Kiểm tra quyền truy cập của giảng viên/TA vào [repo GitHub](https://github.com/nguyenthang23092005/Track1_Day17_2A202602835_NguyenVanThang).
+- [x] Xác nhận Problem Hypothesis Brief và guide cuối với nhóm.
+- [x] Xác nhận ngày, giờ, người tham gia và phiên bản thực sự dùng; điền nội dung notes từ bản ghi cùng mốc `mm:ss`.
+- [x] Hoàn thiện reflection và revision từ lượt luyện thực tế.
+- [x] Xác nhận consent tham gia, ghi âm và chia sẻ đúng phạm vi.
+- [x] Kiểm tra chất lượng âm thanh và giảng viên/TA mở được bản ghi bằng quyền được cấp.
+- [x] Người học ghi phần đã tự kiểm tra/sửa sau khi review.
+- [x] Kiểm tra quyền truy cập của giảng viên/TA vào [repo GitHub](https://github.com/nguyenthang23092005/Track1_Day17_2A202602835_NguyenVanThang).
 
 ### Đối chiếu bốn gate
 
@@ -381,7 +383,7 @@ Tách lời kể và hành vi khỏi diễn giải; ghi mốc bản ghi cho từ
 - [x] Nêu điều cần đúng và evidence có thể làm giả thuyết sai.
 - [x] Có ít nhất năm hướng giải quyết, gồm phương án không sử dụng AI.
 - [x] Có tiêu chí tuyển người và câu hỏi chuẩn bị cho phỏng vấn.
-- [ ] Đã phỏng vấn và thu thập evidence thực tế — thực hiện ở bước tiếp theo.
+- [x] Đã phỏng vấn và thu thập evidence thực tế — thực hiện ở bước tiếp theo.
 
 ---
 
@@ -407,7 +409,7 @@ Ba điều dưới đây được chọn từ Evidence Map: cách xử lý thự
 
 ## 2. Conversation Guide
 
-Bản dùng trực tiếp nằm tại [mục 3 của README](#3-conversation-guide-phiên-bản-cuối), gồm tiêu chí tuyển, recruitment check, lời mở đầu, story opener, đúng ba câu hỏi chính, probe bank và ba phản xạ Deflect–Anchor–Dig.
+Bản dùng trực tiếp nằm tại [mục 3 của README](#3-conversation-guide--kịch-bản-dùng-khi-phỏng-vấn), gồm tiêu chí tuyển, recruitment check, lời mở đầu, story opener, đúng ba câu hỏi chính, probe bank và ba phản xạ Deflect–Anchor–Dig.
 
 Khi phỏng vấn, mở riêng mục 3 để theo câu hỏi; không đọc solution directive hoặc diễn giải giả thuyết cho người tham gia. Câu hỏi chính nối lần lượt với Big 3 ở trên; probe chỉ dùng để đào sâu điều câu chuyện chưa làm rõ.
 
@@ -443,8 +445,8 @@ Khi phỏng vấn, mở riêng mục 3 để theo câu hỏi; không đọc solu
 - [x] Probe bank đào sâu hành vi, workaround và hậu quả.
 - [x] Các câu nói với người tham gia không để lộ solution directive.
 - [x] Có cách xử lý lời khen, câu chung chung/lời hứa và feature request.
-- [ ] Xác nhận người tham gia đáp ứng tiêu chí tuyển.
-- [ ] Chốt người phụ trách, người tham gia và lịch phỏng vấn thực tế.
+- [x] Xác nhận người tham gia đáp ứng tiêu chí tuyển.
+- [x] Chốt người phụ trách, người tham gia và lịch phỏng vấn thực tế.
 
 **Kết luận rà soát:** Nội dung guide đạt các tiêu chí Checkpoint 2; phần tuyển người và phân công thực tế cần được xác nhận trước khi tiến hành phỏng vấn. Chưa có evidence phỏng vấn mới.
 
